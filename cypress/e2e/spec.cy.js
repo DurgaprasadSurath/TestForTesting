@@ -14,3 +14,4 @@ iframe.contentWindow.postMessage('Your message', 'https://dev-in.kiiaccelerators
     //   cy.get("#user_pass").type("user")
   })
 })
+
